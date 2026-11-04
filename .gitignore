@@ -1,0 +1,13 @@
+# Nada de credenciais, logs ou dados neste repositório.
+.env
+.env.*
+*.key
+logs/
+dados/
+*.log
+*.csv
+*.jsonl
+__pycache__/
+.venv/
+.DS_Store
+Thumbs.db

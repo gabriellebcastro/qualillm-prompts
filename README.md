@@ -92,7 +92,7 @@ prompt de sistema.
 
 - **As asserções determinísticas.** Dependem dos referentes de cada aplicação (os dados, as
   regras de negócio e o formato que ela deve seguir) e devem ser construídas e ajustadas por
-  quem aplica o framework. Ver a seção "Como aplicar o framework" e o Apêndice C do TCC.
+  quem aplica o framework. Ver a seção "Quando e como aplicar" e o Apêndice C do TCC.
 - **O código da aplicação** do estudo de caso.
 
 ## Versão

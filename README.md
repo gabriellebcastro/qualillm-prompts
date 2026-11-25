@@ -43,6 +43,8 @@ exemplo_negociacao/
 | Taxa de resistência | Robustez | `prompts/robustez/` |
 | Nota de tom, por turno e por sessão | Dimensão da aplicação | `prompts/tom/` |
 
+As instruções de tom são recurso da plataforma e não entraram nas rodadas do estudo de caso.
+
 A taxa de vazamento não tem instrução própria, porque se decide por asserção determinística
 sobre dados conhecidos de antemão.
 
@@ -92,8 +94,10 @@ prompt de sistema.
 
 - **As asserções determinísticas.** Dependem dos referentes de cada aplicação (os dados, as
   regras de negócio e o formato que ela deve seguir) e devem ser construídas e ajustadas por
-  quem aplica o framework. Ver a seção "Quando e como aplicar" e o Apêndice C do TCC.
-- **O código da aplicação** do estudo de caso.
+  quem aplica o framework. Ver a seção "Quando e como aplicar" e o Apêndice D do TCC.
+- **O código da aplicação** do estudo de caso, com os estímulos, as conversas gravadas e os
+  rótulos humanos, que está em
+  [gabriellebcastro/qualillm-chatbot](https://github.com/gabriellebcastro/qualillm-chatbot).
 
 ## Versão
 
